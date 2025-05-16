@@ -2,7 +2,7 @@
 🚀 **Web Developer | Frontend Enthusiast | Tech Explorer**  
 
 ### 💡 What I Do:
-- 💻 **Frontend Magic:** HTML, CSS, JavaScript, React, Tailwind, Nextjs... 
+- 💻 **Frontend Magic:** HTML, CSS, JavaScript, Typescript, React, Tailwind, Nextjs, Python... 
 - 🛠️ **Backend Basics:** Node.js
 - 🎨 **UI/UX Lover:** Crafting smooth & interactive user experiences  
 - 🔍 **Always Learning:** Exploring Next.js, TypeScript, and modern web trends  
@@ -13,7 +13,7 @@
 
 ### 📬 Connect with Me:
 - 📧 Email: **dilawazmushtaque@gmail.com**  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dilawaiz-mushtaque-92043327b/)
+- 💼 LinkedIn: https://www.linkedin.com/in/dilawaiz-mushtaque-92043327b/
 
 ### 🎉 Fun Fact:
 💡 Did you know? **90% of web performance issues can be solved by writing clean & optimized code!** 🚀  
