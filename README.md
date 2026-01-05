@@ -1,4 +1,4 @@
-## 🌐 Hey there! I'm Aahil Malik (@Aahilmalik85)  
+## 🌐 Hey there! I'm Dil Awaiz Malik (@Aahilmalik85)  
 🚀 **Web Developer | Frontend Enthusiast | Tech Explorer**  
 
 ### 💡 What I Do:
